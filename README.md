@@ -2,6 +2,28 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
 </a>
 
+<div class="me">
+    <p>Hi There!</p>
+    <p>Im <span style="color: var(--mainColor);"> OUSSAMA ROUI</span>,</p>
+    <p>I'am a <span id="typing" style="color: var(--mainColor);"></span><span class="hold">|</span></p>
+</div>
+
+<style>
+.me{
+  margin-top: 180px; margin-left: 15%;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 3vw;
+} 
+.hold{
+  animation: blink .5s step-end infinite alternate;
+}
+@keyframes blink {
+  50% {
+    color: transparent
+  }
+}
+</style>
+
 🎓Software Engineering Student.<br>📚Thirsty for learning and achieving more.<br>🧩I love diving into complex problems and finding innovative solutions.<br>📍Rabat, Morocco 🇲🇦<br><br><br><br><br>
 
 ## 🌐 Socials:
