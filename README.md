@@ -64,6 +64,11 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="API">
+</div>
+
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=oussamaroui&icon=0&color=1)](https://visitcount.itsvg.in)
