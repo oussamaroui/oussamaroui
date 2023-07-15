@@ -55,25 +55,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=oussamaroui&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<div align='centre'>
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=oussamaroui&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussamaroui&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaroui&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaroui&theme=github_dark&show_icons=true" />
-  </a>
-</div>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=footer"/>
