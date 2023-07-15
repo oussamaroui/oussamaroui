@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1167B1&height=120&section=header"/>
 </a>
 
 <img src='https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true'>
