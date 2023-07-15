@@ -37,9 +37,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=oussamaroui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oussamaroui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaroui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussamaroui&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaroui&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaroui&theme=github_dark&show_icons=true" />
+  </a>
+</div> 
 
 ## 🏆 GitHub Trophies
 
