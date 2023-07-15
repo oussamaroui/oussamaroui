@@ -33,13 +33,13 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussamaroui&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinbenmansour&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaroui&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
   <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinbenmansour&theme=github_dark&show_icons=true" />
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaroui&theme=github_dark&show_icons=true" />
   </a>
 </div>
 
