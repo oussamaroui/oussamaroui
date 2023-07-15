@@ -71,5 +71,5 @@
 [![](https://visitcount.itsvg.in/api?id=oussamaroui&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1167B1&height=120&section=footer"/>
 </a>
