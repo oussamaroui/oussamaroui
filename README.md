@@ -62,12 +62,9 @@
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="API">
 </div>
-
 
 ---
 
