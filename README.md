@@ -20,18 +20,20 @@
 # 💻 Tech Stack:
 
 #### 🎨 Front-End <br/>
-<img width="50" height="50" title="HTML" src="https://img.icons8.com/color/500/html-5--v1.png" alt="html-5--v1">
-<img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
-<img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
-<img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
-<img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
-<img width="53" height="53" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
-<img width="50" height="50" title="React Router" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router"/>
-<img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="HTML" src="https://img.icons8.com/color/500/html-5--v1.png" alt="html-5--v1">
+  <img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
+  <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
+  <img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
+  <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
+  <img width="53" height="53" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
+  <img width="50" height="50" title="React Router" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router"/>
+  <img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
+</div>
 
 #### ⚙️ Back-End <br/>
 <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
-<img width="50" height="50" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
+<img width="47" height="47" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
 
 #### 📂 Database <br/>
 <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
