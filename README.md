@@ -32,17 +32,24 @@
 </div>
 
 #### ⚙️ Back-End <br/>
-<img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
-<img width="47" height="47" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
+  <img width="47" height="47" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
+</div>
 
 #### 📂 Database <br/>
-<img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
+</div>
 
 #### ✒️ Prototyping <br/>
-<img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
-<img width="44" height="45" title="Adobe XD" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Adobe XD"/>
-<img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe Photoshop"/>
-<img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg" alt="Adobe Illustrator"/>
+<div style='display:flex;'>
+  <img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
+  <img width="44" height="45" title="Adobe XD" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Adobe XD"/>
+  <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
+  <img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg"     
+  alt="Adobe Illustrator"/>
+</div>
 
 # 📊 GitHub Stats:
 
