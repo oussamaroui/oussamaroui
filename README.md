@@ -51,6 +51,8 @@
   alt="Adobe Illustrator"/>
 </div>
 
+<br>
+
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -65,6 +67,8 @@
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaroui&theme=github_dark&show_icons=true" />
   </a>
 </div>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
