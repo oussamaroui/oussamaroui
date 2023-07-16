@@ -4,7 +4,7 @@
 
 <img src='https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true'>
 
-<br/>
+<br/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFFFFF&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama+Roui;I'm+a+Full+Stack+Developer;Ui+Ux++%26+Graphic+Designer)](https://git.io/typing-svg)
 
