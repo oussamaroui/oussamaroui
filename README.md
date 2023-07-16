@@ -21,7 +21,7 @@
 
 #### 🎨 Front-End <br/>
 <div style='display:flex;'>
-  <img width="50" height="50" title="HTML" src="https://img.icons8.com/color/1000/html-5--v1.png" alt="html-5--v1">
+  <img width="50" height="50" title="HTML" src="https://img.icons8.com/color/5000/html-5--v1.png" alt="html-5--v1">
   <img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
   <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
   <img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
