@@ -51,7 +51,7 @@
   alt="Adobe Illustrator"/>
 </div>
 
-<br>
+<br><br>
 
 # 📊 GitHub Stats:
 
@@ -74,6 +74,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=oussamaroui&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<br>
 ## ✍️ Random Dev Quote
 
 <div align="center">
