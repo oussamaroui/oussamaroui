@@ -20,14 +20,6 @@
 # 💻 Tech Stack:
 
 #### 🎨 Front-End <br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <img width="50" height="50" title="HTML" src="https://img.icons8.com/color/500/html-5--v1.png" alt="html-5--v1"/>
 <img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
 <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
@@ -38,16 +30,17 @@
 <img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
 
 #### ⚙️ Back-End <br/>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
+<img width="50" height="50" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
 
 #### 📂 Database <br/>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
 
 #### ✒️ Prototyping <br/>
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
+<img width="44" height="45" title="Adobe XD" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Adobe XD"/>
+<img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe Photoshop"/>
+<img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg" alt="Adobe Illustrator"/>
 
 # 📊 GitHub Stats:
 
