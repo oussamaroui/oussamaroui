@@ -34,7 +34,7 @@
 #### ⚙️ Back-End <br/>
 <div style='display:flex;'>
   <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
-  <img width="47" height="47" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
+  <img width="45" height="45" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
 </div>
 
 #### 📂 Database <br/>
