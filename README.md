@@ -25,11 +25,10 @@
   <img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
   <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
   <img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
-  <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
-  <img width="50" height="50" title="TypeScript" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-  <img width="53" height="53" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
-  <img width="50" height="50" title="React Router" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router"/>
-  <img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
+  <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript"/>
+  <img width="42" height="42" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript"/>
+  <img width="52" height="52" title="React.JS" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="React JS"/>
+  <img width="50" height="50" title="Next.JS" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="Next JS"/>
 </div>
 
 #### ⚙️ Back-End <br/>
@@ -47,7 +46,7 @@
 <div style='display:flex;'>
   <img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
   <img width="44" height="45" title="Adobe XD" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Adobe XD"/>
-  <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
+  <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe Photoshop"/>
   <img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg"     
   alt="Adobe Illustrator"/>
 </div>
