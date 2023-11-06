@@ -26,6 +26,7 @@
   <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
   <img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
   <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
+  <img width="50" height="50" title="TypeScript" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   <img width="53" height="53" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
   <img width="50" height="50" title="React Router" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router"/>
   <img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
